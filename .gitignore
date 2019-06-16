@@ -1,0 +1,19 @@
+# idea
+/.idea
+/.vscode
+
+# firebase
+/.firebase
+.firebaserc
+/src/config
+
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/build
+/dist
+/public
